@@ -121,7 +121,7 @@ def plot_mol_with_color(smi,x_with_w_norm,save_name):
     
     atom_cols = {}
     for index ,i in enumerate(list(x_with_w_norm)):
-        atom_cols[index] = (0,0,i)
+        atom_cols[index] = (i,1-i,1-i)
         
 
     rdMolDraw2D.PrepareAndDrawMolecule(d,
