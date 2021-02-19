@@ -2,7 +2,7 @@
 
 # MPNN Visual Explanation Design
 
-This repository is the official implementation of [My Paper Title](https://arxiv.org/abs/2030.12345). 
+Papers related to this library [Related papers](https://openaccess.thecvf.com/content_CVPR_2019/papers/Pope_Explainability_Methods_for_Graph_Convolutional_Neural_Networks_CVPR_2019_paper.pdf). 
 
 >📋  Optional: include a graphic explaining your approach/main result, bibtex entry, link to demos, blog posts and tutorials
 
