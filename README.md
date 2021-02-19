@@ -1,6 +1,6 @@
->📋  A template README.md for code accompanying a Machine Learning paper
+>📋  A README.md for MPNN visual explanation design
 
-# My Paper Title
+# MPNN Visual Explanation Design
 
 This repository is the official implementation of [My Paper Title](https://arxiv.org/abs/2030.12345). 
 
@@ -71,8 +71,8 @@ https://blog.csdn.net/u012325865/article/details/104821039
 
 https://blog.csdn.net/u012325865/article/details/105762913
 
-
 https://zhuanlan.zhihu.com/p/83456743
 
 https://pubs.acs.org/doi/10.1021/acs.jmedchem.9b00959
+
 https://drugai.blog.csdn.net/article/details/104868996
